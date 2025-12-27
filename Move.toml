@@ -1,0 +1,15 @@
+[package]
+name = "peercred"
+version = "1.0.0"
+authors = []
+
+[addresses]
+P2PLending="0x31eec05ed22edc4771c9cb99e2ba6bd83594531554463256724cd86336ecd2db"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
