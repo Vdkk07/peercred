@@ -4,6 +4,13 @@
 
 A decentralized peer-to-peer lending platform built on the Aptos blockchain that implements dynamic interest rates based on on-chain credit scoring. The smart contract evaluates borrowers' wallet history to calculate personalized credit scores, which directly influence the interest rates offered on loans. This creates a fair and transparent lending ecosystem where responsible borrowers are rewarded with lower interest rates, while lenders are protected through risk-based pricing.
 
+## Contract Details
+
+- **Transaction id**: `0x5e098f04a669153de263c727cfdbaef5e43eb4724c43427c6807e9cfbac11b25`
+![alt text](image.png)
+- **Sender Address**: `0x31eec05ed22edc4771c9cb99e2ba6bd83594531554463256724cd86336ecd2db`
+- **Explorer Link**: [View on Aptos Explorer](https://explorer.aptoslabs.com/txn/0x5e098f04a669153de263c727cfdbaef5e43eb4724c43427c6807e9cfbac11b25?network=devnet)
+
 ## Project Vision
 
 Our vision is to democratize access to financial services by creating a trustless, transparent, and efficient peer-to-peer lending platform. By leveraging blockchain technology and on-chain credit scoring, we aim to:
@@ -60,8 +67,3 @@ All loan terms, credit scores, and transaction history are stored immutably on t
 - **Integration with DeFi Protocols**: Connect with yield aggregators and liquidity pools
 - **Insurance Pools**: Lender protection through decentralized insurance mechanisms
 - **Advanced Risk Models**: Machine learning-based credit assessment using comprehensive on-chain data
-
-## Contract Details
-
-- **Sender Address**: `0x31eec05ed22edc4771c9cb99e2ba6bd83594531554463256724cd86336ecd2db`
-- **Explorer Link**: [View on Aptos Explorer](https://explorer.aptoslabs.com/txn/0x5e098f04a669153de263c727cfdbaef5e43eb4724c43427c6807e9cfbac11b25?network=devnet)
